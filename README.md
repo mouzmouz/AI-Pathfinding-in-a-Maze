@@ -22,3 +22,8 @@ This project implements **pathfinding algorithms** to navigate a robot through a
     - The **number of node expansions** for both algorithms.
 - **Algorithm Comparison**  
   - Allows users to test different values of `N` and `p` to compare UCS and A* efficiency.
+
+## Credits 
+Eleni Mouzaki
+
+Panagiotis Papaioannou
